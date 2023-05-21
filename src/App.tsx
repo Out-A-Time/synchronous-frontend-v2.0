@@ -1,18 +1,12 @@
-
-
-import './App.css';
-import Card from './components/Card/Card';
+import './App.css'
+import Card_Menu from './components/Card_Menu/Card_Menu';
 import Header from './components/Header/Header';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+      <Card_Menu />
     </div>
   );
 }
