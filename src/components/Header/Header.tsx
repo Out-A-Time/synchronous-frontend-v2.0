@@ -1,7 +1,7 @@
 import React from "react";
 
 const Header = () => {
-  return <div>Awesome Header Here</div>;
+  return <div>Synchronous v2.0</div>;
 };
 
 export default Header;
